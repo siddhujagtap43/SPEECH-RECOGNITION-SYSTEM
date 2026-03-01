@@ -83,3 +83,4 @@ Voice-controlled games and interactive systems create immersive experiences.
 Enhances user engagement and creativity.
 
 OUTPUT
+<img width="1284" height="750" alt="Image" src="https://github.com/user-attachments/assets/498e89b3-ea04-4326-b4a8-0cb11d88a616" />
