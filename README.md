@@ -4,7 +4,7 @@ COMPANY:CODTECH IT SOLUTIONS
 
 NAME:Siddheshwar Babasaheb Jagtap
 
-INTERN ID:CTISS4693
+INTERN ID:CTIS4693
 
 DOMAIN:Embedded Systems
 
